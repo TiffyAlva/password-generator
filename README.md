@@ -1,10 +1,10 @@
 # Password Generator 
 
-### Deployed Link:
+### Deployed Link: https://tiffyalva.github.io/password-generator/
 ## Module 3 challenge
 - Password generator starter code was given.
 - I created user prompts with JavaScript.
-- I included length, lower case, upper case, numbers, and special characters.
+- I included length, lowercase, uppercase, numbers, and special characters.
  
 
 
