@@ -11,16 +11,16 @@
 
 ![](./SharedScreenshot.jpg)
 ### Length prompt
-![](./SharedScreenshot2.jpg)
-### Lower case prompt
-![](./SharedScreenshot3.jpg)
-### Upper case prompt
-![](./SharedScreenshot4.jpg)
+![](./length.jpg)
+### Lowercase prompt
+![](./lowercase.jpg)
+### Uppercase prompt
+![](./uppercase.jpg)
 ### Number prompt
-![](./SharedScreenshot5.jpg)
+![](./number.jpg)
 
 ### Special characters prompt
-![](./SharedScreenshot6.jpg)
+![](./special%20characters.jpg)
 
 
 

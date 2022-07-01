@@ -1,7 +1,10 @@
 // Assignment code here
 function generatePassword() {
   console.log("You clicked the button")
-  var length = prompt("What is the the length of the password?")
+  var length = prompt("What is the length of the password? Choose 8 to 128")
+    if(length < 8 ) {
+      alert('too short!')
+    }
   var includeLowercase = confirm("Do you want to include lowercase?")
   var includeUppercase = confirm("Do you want to include uppercase?")
   var includeNumbercase = confirm("Do you want to include numbers?")
@@ -9,8 +12,10 @@ function generatePassword() {
   
   //empty string
   var basket = ""
+
   if (includeLowercase == true) {
     basket = basket + "abcde"
+      
   } 
   if (includeUppercase == true){
     basket = basket + "ABCDE"
