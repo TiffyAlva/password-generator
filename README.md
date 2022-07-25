@@ -9,18 +9,18 @@
 
 
 
-![](./SharedScreenshot.jpg)
+![](./assets/images/SharedScreenshot.jpg)
 ### Length prompt
-![](./length.jpg)
+![](./assets/images/length.jpg)
 ### Lowercase prompt
-![](./lowercase.jpg)
+![](./assets/images/lowercase.jpg)
 ### Uppercase prompt
-![](./uppercase.jpg)
+![](./assets/images/uppercase.jpg)
 ### Number prompt
-![](./number.jpg)
+![](./assets/images/number.jpg)
 
 ### Special characters prompt
-![](./special%20characters.jpg)
+![](./assets/images/special%20characters.jpg)
 
 
 
