@@ -1,6 +1,6 @@
 # Password Generator 
 
-### Deployed Link: https://tiffyalva.github.io/password-generator/
+### Deployed Link: https://tiffyalva.github.io/password-generator-challenge-3/
 ## Module 3 challenge
 - Password generator starter code was given.
 - I created user prompts with JavaScript.
